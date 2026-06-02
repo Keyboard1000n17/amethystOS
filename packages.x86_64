@@ -29,6 +29,7 @@ ethtool
 exfatprogs
 f2fs-tools
 fatresize
+fish
 foot-terminfo
 fsarchiver
 gpart
@@ -44,6 +45,7 @@ iw
 iwd
 jfsutils
 kitty-terminfo
+labwc
 ldns
 less
 lftp
@@ -56,6 +58,7 @@ linux-firmware-marvell
 livecd-sounds
 lsscsi
 lvm2
+lxdm
 lynx
 man-db
 man-pages
@@ -125,4 +128,3 @@ wvdial
 xdg-utils
 xfsprogs
 xl2tpd
-zsh
