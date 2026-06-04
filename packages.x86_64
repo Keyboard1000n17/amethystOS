@@ -99,6 +99,7 @@ pv
 qemu-guest-agent
 refind
 reflector
+rofi
 rsync
 rxvt-unicode-terminfo
 screen
@@ -124,6 +125,7 @@ usbutils
 vim
 virtualbox-guest-utils-nox
 vpnc
+waybar
 wireless-regdb
 wireless_tools
 wpa_supplicant
