@@ -30,11 +30,14 @@ exfatprogs
 f2fs-tools
 fatresize
 fish
+foot
 foot-terminfo
 fsarchiver
 gpart
 gpm
 gptfdisk
+greetd
+greetd-regreet
 grml-zsh-config
 grub
 hdparm
@@ -58,7 +61,6 @@ linux-firmware-marvell
 livecd-sounds
 lsscsi
 lvm2
-lxdm
 lynx
 man-db
 man-pages
@@ -78,6 +80,7 @@ ndisc6
 nfs-utils
 nilfs-utils
 nmap
+noto-fonts
 ntfs-3g
 nvme-cli
 open-iscsi
@@ -128,3 +131,4 @@ wvdial
 xdg-utils
 xfsprogs
 xl2tpd
+zsh
