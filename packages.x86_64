@@ -29,6 +29,7 @@ ethtool
 exfatprogs
 f2fs-tools
 fatresize
+firefox
 fish
 foot
 foot-terminfo
@@ -53,6 +54,7 @@ ldns
 less
 lftp
 libfido2
+libreoffice
 libusb-compat
 linux
 linux-atm

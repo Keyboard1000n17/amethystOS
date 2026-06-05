@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<labwc_menu>
+  <menu id="root-menu" label="Applications">
+    <item label="Firefox: Browse the web"><action name="Execute" command="firefox" /></item>
+    <item label="LibreOffice: Type out documents"><action name="Execute" command="firefox" /></item>
+  </menu>
+</labwc_menu>
