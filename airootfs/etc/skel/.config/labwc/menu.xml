@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <labwc_menu>
-  <menu id="root-menu" label="Applications">
-    <item label="Firefox: Browse the web"><action name="Execute" command="firefox" /></item>
-    <item label="LibreOffice: Type out documents"><action name="Execute" command="firefox" /></item>
+
+  <menu id="libreoffice" label="LibreOffice: Office suite">
+    <item label="Open LibreOffice">
+      <action name="Execute" command="libreoffice" />
+    </item>
+    <item label="LibreOffice Writer: Write documents">
+      <action name="Execute" command="libreoffice --writer" />
+    </item>
+    <item label="LibreOffice Calc: Make spreadsheets">
+      <action name="Execute" command="libreoffice --calc" />
+    </item>
+    <item label="LibreOffice Impress: Create presentations">
+      <action name="Execute" command="libreoffice --impress" />
+    </item>
   </menu>
+
+  <menu id="root-menu" label="Applications">
+    <item label="Firefox: Browse the web">
+      <action name="Execute" command="firefox" />
+    </item>
+    <menu id="libreoffice" />
+  <separator />
+    <item label="Terminal">
+      <action name="Execute" command="foot" />
+    </item>
+    <item label="Shutdown">
+      <action name="Execute" command="shutdown now" />
+    </item>
+    <item label="Reboot">
+      <action name="Execute" command="reboot" />
+    </item>
+  </menu>
+
 </labwc_menu>
