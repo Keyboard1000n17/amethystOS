@@ -1,0 +1,12 @@
+{
+  "custom/rofi": {
+    "on-click": "rofi -show drun",
+    "format": "Applications",
+  },
+  "clock": {
+    "format": "{:%H:%M %A %B %d}",
+  },
+  "modules-left": ["custom/rofi"],
+  "modules-right": ["battery", "network"],
+  "modules-center": ["clock"],
+}
